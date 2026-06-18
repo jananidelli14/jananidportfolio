@@ -141,20 +141,13 @@ Part of a **Top 25 selected team**, contributing to research, ideation, and web 
 **Email:** jananidelli14@gmail.com
 
 **LinkedIn:**  
-https://www.linkedin.com/in/janani-delli-1471b32b6
+https://www.linkedin.com/in/janani-d-157204361/
 
 **GitHub:**  
 https://github.com/jananidelli14
 
 ---
 
-## ⭐ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- Modern UI Components
 
 ---
 
