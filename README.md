@@ -147,8 +147,3 @@ https://www.linkedin.com/in/janani-d-157204361/
 https://github.com/jananidelli14
 
 ---
-
-
----
-
-### Built with ❤️ by Janani D
